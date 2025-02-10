@@ -38,7 +38,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/aryannnthakurrr/Skycast-Live.git
+git clone https://github.com/Kritgoel/SkyCast_Live.git
 
 Navigate to the project directory:
 
